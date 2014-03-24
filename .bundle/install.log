@@ -1,0 +1,6 @@
+# Logfile created on 2014-03-24 17:51:34 +0100 by logger.rb/44203
+I, [2014-03-24T17:51:34.701756 #4346]  INFO -- : 0:  rack (1.5.2) from /home/vicente/.rvm/gems/ruby-2.1.1/specifications/rack-1.5.2.gemspec
+I, [2014-03-24T17:51:36.075855 #4346]  INFO -- : 0:  rack-protection (1.5.2) from /home/vicente/.rvm/gems/ruby-2.1.1/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-24T17:51:36.076784 #4346]  INFO -- : 0:  tilt (1.4.1) from /home/vicente/.rvm/gems/ruby-2.1.1/specifications/tilt-1.4.1.gemspec
+I, [2014-03-24T17:51:39.975997 #4346]  INFO -- : 0:  sinatra (1.4.4) from /home/vicente/.rvm/gems/ruby-2.1.1/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-24T17:51:39.976641 #4346]  INFO -- : 0:  bundler (1.5.0) from /home/vicente/.rvm/gems/ruby-2.1.1@global/specifications/bundler-1.5.0.gemspec
