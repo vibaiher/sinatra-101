@@ -3,7 +3,7 @@ require 'sinatra/base'
 class MyApp < Sinatra::Base
 
   get '/' do
-    "I'm alive!"
+    erb :index
   end
   
   get '/italian' do
